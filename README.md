@@ -22,8 +22,12 @@ Every system I build follows four layers that turn scattered tools into one oper
 
 ## Selected work
 
+Most client work is private or under NDA. These are the builds I can show publicly, each with an import-ready workflow, a documented architecture, and honest guardrails.
+
 | Project | What it does | Proof |
 |---|---|---|
+| [InstaBay - Agentic Instagram Marketing](https://github.com/Moamen-Elsharkawy/instabay-agent) | Researches, drafts, and schedules on-brand bilingual (AR/EN) Instagram content, with a cross-model AI judge and a human approval gate before anything posts | 7 n8n workflows, Instagram Graph API, closed improvement loop |
+| [DocFlow AI](https://github.com/Moamen-Elsharkawy/docflow-ai) | Reads incoming invoices, contracts, and forms from Gmail and Drive, extracts structured data, and routes it, with validation gates and a human review queue | n8n, GPT-4o-mini, confidence gates |
 | [Sawt - Arabic Voice Command Layer](https://github.com/Moamen-Elsharkawy/sawt-voice-command-layer) | One Egyptian-Arabic voice note becomes executed actions across ClickUp, Gmail, Sheets, Calendar, with a confirm-before-send gate | 3 deployed n8n workflows, n8n Cairo Meetup showcase |
 | [AI Meeting Intelligence](https://github.com/Moamen-Elsharkawy/ai-meeting-intelligence) | Recording in, personalized tasks out, trilingual | [Demo](https://youtu.be/wI4yV7YpmXk), under $0.05/meeting |
 | [LeadSync AI](https://github.com/Moamen-Elsharkawy/leadsync-ai) | Telegram sales agent + Sheets CRM: captures, qualifies, and follows up Arabic-language leads | [Demo](https://youtu.be/eacYf0uX2gM), in production |
@@ -38,6 +42,8 @@ Every system I build follows four layers that turn scattered tools into one oper
 n8n, Python, FastAPI, LLM agents, RAG, Supabase Vector, FAISS, MCP and tool integrations, OpenAI / OpenRouter / Claude APIs, Groq Whisper, ElevenLabs, Telegram and WhatsApp APIs, full-stack delivery (Angular, Next.js).
 
 ## Contact
+
+Available for freelance AI automation work. If you have a manual process eating your team's time, tell me about it and I will show you what an automation would look like.
 
 - Portfolio: [notion.so/Moamen-Elsharkawy](https://www.notion.so/Moamen-Elsharkawy-AI-Automation-Specialist-c201df9dd81482998591011f978b1bda)
 - LinkedIn: [moamen--elsharkawy](https://www.linkedin.com/in/moamen--elsharkawy/)
