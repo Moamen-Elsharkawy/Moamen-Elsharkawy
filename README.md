@@ -1,12 +1,12 @@
 # Moamen Elsharkawy
 
-**AI Automation Engineer | Chief AI Officer @ Real Experts | I build AI Operating Systems for businesses**
+**AI Automation Engineer | Chief AI Officer @ Real Experts & Home Locator | I build AI Operating Systems for businesses**
 
 I design and ship production AI automation: n8n workflows, LLM agents, RAG systems, and full-stack apps that remove manual work and scale operations. My own business runs on an AI Operating System I built, and every number below comes from a real build.
 
 ## The numbers
 
-- **15 unattended n8n workflows + 8 scheduled AI agents** run my own business end to end (outreach drafting, planning, reporting), with a self-healing error handler that auto-fixes failing workflows
+- **10 unattended n8n workflows + 6 scheduled AI agents** run my own business end to end (outreach drafting, planning, reporting), with a self-healing error handler that auto-fixes failing workflows
 - **42% dead air** cut from real client footage by an AI video post-production pipeline, no human editor
 - **12,866 contacts** deduped from ~94%-overlapping exports into 7,777 tiered sell-targets
 - **Under $0.05 per meeting** for a trilingual (English, MSA, Egyptian Arabic) meeting-intelligence pipeline
