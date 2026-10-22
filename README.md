@@ -2,13 +2,13 @@
 
 **AI Automation Engineer | Fractional Chief AI Officer**
 
-I build AI agents, n8n workflows, API integrations and full-stack business systems. As a hands-on fractional CAIO at Home Locator and Real Experts, I work with the owners on AI priorities and implement systems used internally.
+I build AI agents, n8n workflows, API integrations and full-stack business systems. I have implemented tailored AI Operating Systems (AIOS) for two real-estate client organizations, alongside the system I operate for my own business. As a hands-on fractional CAIO at Home Locator and Real Experts, I work with owners on AI priorities and build and integrate systems used internally.
 
 ## Engineering evidence
 - **Lead Intelligence Pipeline:** 194 local assertions passed in October 2026; historical deployed-test evidence records 15/15 edge cases and 32 hardening checks. A tested reference, not current client production.
 - **Transcript Translator:** paid client delivery, from Telegram DOCX intake to timestamp-preserving Arabic translation and Google Drive output.
 - **Sawt:** deployed Egyptian-Arabic voice-agent showcase presented at n8n Cairo Meetup #2 in July 2026.
-- **Personal AIOS:** operating context, live tool connections, reusable agent capabilities and scheduled workflows, with human review for external actions.
+- **AI Operating Systems (AIOS):** two real client implementations plus my own system, adapting business context, tool connections, agent capabilities, workflow orchestration and approval safeguards to the operating environment. Client systems are used internally; no unverified outcome claims.
 
 ## Selected public work
 | Project | Stage | Implementation |
@@ -22,9 +22,9 @@ I build AI agents, n8n workflows, API integrations and full-stack business syste
 | [DocFlow AI](https://github.com/Moamen-Elsharkawy/docflow-ai) | Portfolio build | Built a reference architecture with intake, classification, extraction, deterministic validation and review routing. |
 
 ## AI leadership and private delivery
-**Home Locator, Aug 2026-Present:** new components plus improvements to existing CRM, website and operational systems.
+**Home Locator, Aug 2026-Present:** tailored AIOS implementation and new components integrated with improvements to existing CRM, website and operational systems.
 
-**Real Experts, Jul 2026-Present:** original Egyptian-Arabic AIOS and CRM build, with roadmap and implementation ownership.
+**Real Experts, Jul 2026-Present:** original Egyptian-Arabic AIOS and CRM build, with roadmap and implementation ownership. One of two client AIOS implementations.
 
 Both are part-time roles. Client code and business records stay private; my public portfolio describes scope without client performance metrics.
 
